@@ -1,4 +1,3 @@
-# hello-world
-Initial repository for github
+# CSE278
 
-I'm a novice programmer trying to learn more.
+Modified in CEC server.
