@@ -1,7 +1,3 @@
 # CSE278
-
-Modified in CEC server.
-
-
-
-Modified in web browser.
+Contains files for Labs in CSE 278 A
+Nathan Farrar
